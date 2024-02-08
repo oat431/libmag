@@ -1,6 +1,6 @@
 # LibMag
 
-a library management system using go fiber framework as an api
+a library management system using go fiber framework as backend
 
 ## Features
 
